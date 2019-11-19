@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our second slide!"
 ---
-Dummy text
+This is a replacement of the dummy text.
 Use the left arrow to go back!
